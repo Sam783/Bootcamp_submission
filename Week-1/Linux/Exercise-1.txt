@@ -1,0 +1,3 @@
+Command to list contents of a folder including its hidden files: ls -a
+Command to Copy file: cp <source> <destination>
+Command to Rename file: mv <source> <destination>

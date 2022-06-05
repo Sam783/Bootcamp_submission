@@ -1,0 +1,4 @@
+PID of the process running the cpu.c : 256
+CPU of process : 100%
+Memory of process : 0 kB
+current state of the process : Running state
